@@ -11,7 +11,7 @@ import (
 	"bufio"
 	"bytes"
 	"fmt"
-	"github.com/bnagy/crashwalk/crash"
+	"github.com/robotdai/testdai/crash"
 	"io"
 	"io/ioutil"
 	"log"
